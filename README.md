@@ -40,3 +40,7 @@ Library     |  License
 [VRMLipSyncContextMorphTarget](https://github.com/TsubokuLab/VRMLipSyncContextMorphTarget)  | Unknown,
 [UniVRM](https://github.com/vrm-c/UniVRM)                                                   | MIT license
 [UniTask](https://github.com/Cysharp/UniTask)                                               | MIT license
+
+# 参考にしたサイト
+* [ChatGPT APIをUnityから動かす。](https://note.com/negipoyoc/n/n88189e590ac3)
+* [GPT-3とVoiceVoxを活用してAIエージェントを作る！【Unity】](https://note.com/negipoyoc/n/n081e25f5ee9e)
