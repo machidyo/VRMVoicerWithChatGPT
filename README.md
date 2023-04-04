@@ -33,8 +33,10 @@ https://user-images.githubusercontent.com/1772636/229851106-14613be7-76a9-4217-9
 1. ときどき音声認識がうまく反応しないときがあります。その場合、再実行してみてください。
 
 # OSS
-[unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) : MIT license
-[voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) : Unknown, LGPL-3.0 licenses found
-[VRMLipSyncContextMorphTarget](https://github.com/TsubokuLab/VRMLipSyncContextMorphTarget)
-[UniVRM](https://github.com/vrm-c/UniVRM) : MIT license
-[UniTask](https://github.com/Cysharp/UniTask) : MIT license
+Library     |  License
+------------|------------
+[unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge)                    | MIT license
+[voicevox_engine](https://github.com/VOICEVOX/voicevox_engine)                              | Unknown, LGPL-3.0 licenses found
+[VRMLipSyncContextMorphTarget](https://github.com/TsubokuLab/VRMLipSyncContextMorphTarget)  | Unknown,
+[UniVRM](https://github.com/vrm-c/UniVRM)                                                   | MIT license
+[UniTask](https://github.com/Cysharp/UniTask)                                               | MIT license
