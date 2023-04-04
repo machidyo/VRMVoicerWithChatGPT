@@ -1,11 +1,8 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 using VoicevoxBridge;
 
-public class Zunda : MonoBehaviour
+public class VoiceVoxRequester : MonoBehaviour
 {
     [SerializeField] private VOICEVOX voicevox;
     
@@ -22,11 +19,6 @@ public class Zunda : MonoBehaviour
     
     public async UniTask TestVoice()
     {
-        // var client = new ChatGPTConnection("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");
-        // var response = await client.RequestAsync("はじめまして、こんにちは。今日は何をしたらいいか教えてください。");
-        // Debug.Log("AI:" + response.choices[0].message.content);
-        // var message = response.choices[0].message.content;
-        
         var message = "テストだにゃー";
         Debug.Log("TEST:" + message);
         await voicevox.PlayOneShot(1, message);
