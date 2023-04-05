@@ -40,7 +40,7 @@ GUIを起動するだけ内部的にvoicevox_engineが起動されるため、�
 4. おそらく後ろを向いているのでY軸で180度回転させます。（doreのrotation参照）
 5. ドレを削除します。
 
-# OSS
+# Libraries
 Library     |  License
 ------------|------------
 [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge)                    | MIT license
