@@ -1,4 +1,4 @@
-# VRMVoicerWithChatGPT
+# vrm-voicer-with-chatgpt-sample
 VRMにしゃべってもらうことを体験するサンプルリポジトリです。
 
 https://user-images.githubusercontent.com/1772636/229851106-14613be7-76a9-4217-979b-533e5df32237.mp4
